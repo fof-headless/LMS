@@ -4,7 +4,9 @@ This document explains each component of the Loan Management System flow
 shown in the architecture diagram. It is structured based on the user
 journey and operational lifecycle of a digital lending product.
 
-------------------------------------------------------------------------
+---------------------------------------------
+<img width="908" height="651" alt="LMS drawio" src="https://github.com/user-attachments/assets/4441beeb-074c-4ba5-a81c-6449a2dc47ae" />
+---------------------------
 
 
 
